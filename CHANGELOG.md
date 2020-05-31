@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.0.6 (2020-05-31)
+
+* Moved repo to personal account
+
 ## 1.0.5 (2020-05-31)
 
 * Added link to github status badge
