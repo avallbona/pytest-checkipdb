@@ -2,9 +2,9 @@
 
 [![pypi](https://img.shields.io/pypi/v/pytest-checkipdb.svg)](https://pypi.python.org/pypi/pytest-checkipdb/)
 [![Downloads](https://pepy.tech/badge/pytest-checkipdb)](https://pepy.tech/project/pytest-checkipdb)
-[![See Build Status on Travis CI](https://travis-ci.org/apsl/pytest-checkipdb.svg?branch=master)](https://travis-ci.org/APSL/pytest-checkipdb)
-[![Hit counter](http://hits.dwyl.com/apsl/pytest-checkipdb.svg)](http://hits.dwyl.com/apsl/pytest-checkipdb)
-[![Python package](https://github.com/APSL/pytest-checkipdb/workflows/Python%20package/badge.svg?branch=master)](https://github.com/APSL/pytest-checkipdb/actions)
+[![See Build Status on Travis CI](https://travis-ci.org/avallbona/pytest-checkipdb.svg?branch=master)](https://travis-ci.org/avallbona/pytest-checkipdb)
+[![Hit counter](http://hits.dwyl.com/avallbona/pytest-checkipdb.svg)](http://hits.dwyl.com/avallbona/pytest-checkipdb)
+[![Python package](https://github.com/avallbona/pytest-checkipdb/workflows/Python%20package/badge.svg?branch=master)](https://github.com/avallbona/pytest-checkipdb/actions)
 
 Plugin to check if there are ipdb/pdb breakpoints left into our code
 
