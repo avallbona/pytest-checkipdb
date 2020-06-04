@@ -1,8 +1,14 @@
 # Change Log
 
+## 1.0.7 (2020-06-04)
+
+* Improved README.md for local development
+* Added publishing to pypi.org via github action
+
 ## 1.0.6 (2020-05-31)
 
 * Moved repo to personal account
+
 
 ## 1.0.5 (2020-05-31)
 
