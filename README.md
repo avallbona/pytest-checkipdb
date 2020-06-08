@@ -5,6 +5,7 @@
 [![See Build Status on Travis CI](https://travis-ci.org/avallbona/pytest-checkipdb.svg?branch=master)](https://travis-ci.org/avallbona/pytest-checkipdb)
 [![Hit counter](http://hits.dwyl.com/avallbona/pytest-checkipdb.svg)](http://hits.dwyl.com/avallbona/pytest-checkipdb)
 [![Python package](https://github.com/avallbona/pytest-checkipdb/workflows/Python%20package/badge.svg?branch=master)](https://github.com/avallbona/pytest-checkipdb/actions)
+[![Python versions](https://img.shields.io/pypi/pyversions/pytest-checkipdb.svg)](https://pypi.org/project/pytest-checkipdb)
 
 Plugin to check if there are ipdb/pdb breakpoints left into our code
 
