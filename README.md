@@ -1,5 +1,6 @@
 # pytest-checkipdb
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/9a1266e65d4449f583a9452589d3f73c)](https://app.codacy.com/manual/avallbona/pytest-checkipdb?utm_source=github.com&utm_medium=referral&utm_content=avallbona/pytest-checkipdb&utm_campaign=Badge_Grade_Settings)
 [![pypi](https://img.shields.io/pypi/v/pytest-checkipdb.svg)](https://pypi.python.org/pypi/pytest-checkipdb/)
 [![Downloads](https://pepy.tech/badge/pytest-checkipdb)](https://pepy.tech/project/pytest-checkipdb)
 [![See Build Status on Travis CI](https://travis-ci.org/avallbona/pytest-checkipdb.svg?branch=master)](https://travis-ci.org/avallbona/pytest-checkipdb)
