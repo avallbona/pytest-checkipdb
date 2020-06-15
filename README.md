@@ -7,7 +7,7 @@
 [![Python package](https://github.com/avallbona/pytest-checkipdb/workflows/Python%20package/badge.svg?branch=master)](https://github.com/avallbona/pytest-checkipdb/actions)
 [![Python versions](https://img.shields.io/pypi/pyversions/pytest-checkipdb.svg)](https://pypi.org/project/pytest-checkipdb)
 
-Plugin to check if there are ipdb/pdb breakpoints left into our code
+Plugin to check if there are ipdb/pdb/breakpoint breakpoints left into our code
 
 ## Installation
 
