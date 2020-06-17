@@ -6,6 +6,7 @@
 [![Hit counter](http://hits.dwyl.com/avallbona/pytest-checkipdb.svg)](http://hits.dwyl.com/avallbona/pytest-checkipdb)
 [![Python package](https://github.com/avallbona/pytest-checkipdb/workflows/Python%20package/badge.svg?branch=master)](https://github.com/avallbona/pytest-checkipdb/actions)
 [![Python versions](https://img.shields.io/pypi/pyversions/pytest-checkipdb.svg)](https://pypi.org/project/pytest-checkipdb)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/596f719612f54bd0b4e7aa3a9448f8ca)](https://www.codacy.com/manual/avallbona/pytest-checkipdb?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=avallbona/pytest-checkipdb&amp;utm_campaign=Badge_Grade)
 
 Plugin to check if there are ipdb/pdb/breakpoint breakpoints left into our code
 
