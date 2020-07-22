@@ -18,14 +18,22 @@ def pytest_collect_file(parent, path):
     config = parent.config
     if path.ext != '.py' or not config.option.check_ipdb:
         return
-    return CheckIpdbItem(path, parent=parent)
+    if hasattr(CheckIpdbItem, "from_parent"):
+        return CheckIpdbItem.from_parent(parent, fspath=path)
+    else:
+        return CheckIpdbItem(path, parent)
 
 
 class CheckIpdbItem(pytest.Item, pytest.File):
 
-    def __init__(self, path, parent):
-        super(CheckIpdbItem, self).__init__(path, parent=parent)
-        self.raw_content = self.fspath.open().read()
+    def __init__(self, fspath, parent):
+        """fixing the raw content when instantiating the item
+
+        :param fspath:
+        :param parent:
+        """
+        self.raw_content = fspath.open().read()
+        super(CheckIpdbItem, self).__init__(fspath, parent=parent)
 
     def runtest(self):
         t = ast.parse(self.raw_content)
