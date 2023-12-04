@@ -2,6 +2,10 @@
 
 ## 1.1.0 (2023-12-05)
 
+  * fixed package classifiers
+
+## 1.1.0 (2023-12-05)
+
   * Droppet support for python 3.5 and 3.6
   * Added support for python 3.9, 3.10, 3.11 and 3.12
 
