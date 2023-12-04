@@ -1,5 +1,15 @@
 # Change Log
 
+## 1.1.0 (2023-12-05)
+
+  * Droppet support for python 3.5 and 3.6
+  * Added support for python 3.9, 3.10, 3.11 and 3.12
+
+## 1.0.9 (2020-07-23)
+
+  * added publishing of the package when a new release is done
+  * fixed issue [#9](https://github.com/avallbona/pytest-checkipdb/issues/9)
+
 ## 1.0.8 (2020-06-17)
 
   * Fixed some code style issues
